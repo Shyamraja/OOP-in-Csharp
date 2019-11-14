@@ -1,7 +1,7 @@
 using System;
 
 public class CarSalesman
-  {
+{
      private string _firstName;
      private string _lastName;
 
